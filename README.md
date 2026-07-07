@@ -245,11 +245,3 @@ Confidence : 98.4%
 This project demonstrates the application of Deep Learning and Transfer Learning for automatic brain tumor detection and classification from MRI images. By comparing multiple CNN models and deploying the best-performing model through Streamlit, the system provides an efficient and user-friendly solution that can assist healthcare professionals in the early diagnosis of brain tumors.
 
 ---
-
-## Author
-
-**Syeda Afreen**
-
-Bachelor of Engineering (Computer Science)
-
-PES College of Engineering, Mandya
